@@ -3,7 +3,7 @@ A simple GUI application using JavaFX to interface with the Virginia State Corpo
 This application enables searches based on keywords and weekly filings, which the official docket search web app cannot do. 
 
 ## SCC Docket Search
-Here is a link to the actual [SCC Docket Search](http://scc.virginia.gov/docketsearch) web app.
+Here is a link to the actual [SCC Docket Search](http://www.scc.virginia.gov/docketsearch) web app.
 
 ## Demo
 
