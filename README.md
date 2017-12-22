@@ -6,4 +6,4 @@ This application enables searches based on keywords and weekly filings, which th
 Here is a link to the actual [SCC Docket Search](http://www.scc.virginia.gov/docketsearch) web app.
 
 ## Demo
-
+[Click to view the final submission video](https://www.icloud.com/iclouddrive/0EqwpxZ2Rvq5s4tvC8EnUHk2g#FInal_Project_Movie)
