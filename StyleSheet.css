@@ -1,0 +1,50 @@
+.list-view .list-cell {
+    -fx-background-color: #f5f5f5;
+    -fx-wrap-text: true;
+    -fx-border-width: 0 0 1 0;
+    -fx-border-color: darkgrey;
+}
+
+.list-view .list-cell .javafx.scene.text:hover {
+    -fx-underline: true;
+}
+
+.list-view .scroll-bar:horizontal,
+.list-view .scroll-bar:vertical {
+
+    -fx-background-color: transparent;
+}
+
+.list-view .increment-button,
+.list-view .decrement-button {
+
+    -fx-background-color: transparent;
+    -fx-background-radius: 0em;
+    -fx-padding: 0 10 0 0px;
+}
+
+.list-view .increment-arrow,
+.list-view .decrement-arrow {
+
+    -fx-shape: " ";
+    -fx-padding: 0px;
+}
+
+.list-view .scroll-bar:horizontal .thumb,
+.list-view .scroll-bar:vertical .thumb {
+
+    -fx-background-color:derive(rgba(0, 0, 0, 0.8),90%);
+    -fx-background-insets: 2, 0, 0;
+    -fx-background-radius: 2em;
+    -fx-max-width: 5px;
+
+}
+
+.list-view .track {
+
+    -fx-background-color:transparent;
+    -fx-border-color:transparent;
+    -fx-background-radius: 0em;
+    -fx-border-radius:2em;
+
+}
